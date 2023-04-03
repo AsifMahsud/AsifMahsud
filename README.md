@@ -1,10 +1,6 @@
 # 💫 About Me:
 I'm The Full Stack Ninja, a senior software engineer at Devsinc. I build awesome applications from the ground up and love a good challenge. Let's create something exceptional together!
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif543/) 
-
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,3 +23,7 @@ I'm The Full Stack Ninja, a senior software engineer at Devsinc. I build awesome
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-%23EA4335.svg?style=for-the-badge&logo=zoho&logoColor=white)
 
+## 🌐 Get in Touch.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif543/) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=google&logoColor=white)](mailto:asifmahsud543@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923425106510)
