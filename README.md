@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm The Full Stack Ninja, a senior software engineer. I build awesome applications from the ground up and love a good challenge. Let's create something exceptional together!
+I'm a senior software engineer and full stack developer. I build awesome applications from the ground up and love a good challenge. Let's create something exceptional together!
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
