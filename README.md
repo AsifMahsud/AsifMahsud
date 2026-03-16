@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Asif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20ThreeUpTech%20-%20CTO%20@%20WebDrvn&descSize=18&fontAlign=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Asif&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Founder+%26+CEO+%40+ThreeUpTech+%F0%9F%8F%A2;CTO+%40+WebDrvn+%E2%9A%A1;Building+Exceptional+Products+%F0%9F%92%BB;" alt="Typing SVG" />
