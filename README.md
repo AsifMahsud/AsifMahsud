@@ -24,7 +24,6 @@ const muhammad_asif = {
   role:       "Senior Software Engineer & Full Stack Developer",
   companies:  ["Founder & CEO @ ThreeUpTech", "CTO @ WebDrvn"],
   education:  "National University of Sciences & Technology (NUST)",
-  location:   "Islamabad, Pakistan 🇵🇰",
   philosophy: "Build awesome things. Solve real problems. Lead great teams.",
   currently:  ["Scaling ThreeUpTech", "Cloud Architecture on AWS", "AI-powered automation"],
   openTo:     ["Collaborations", "Consulting", "Challenging Projects"],
