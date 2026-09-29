@@ -1,128 +1,146 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Asif&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Muhammad%20Asif&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%" alt="Muhammad Asif"/>
 
-<!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Founder+%26+CEO+%40+ThreeUpTech+%F0%9F%8F%A2;CTO+%40+WebDrvn+%E2%9A%A1;Building+Exceptional+Products+%F0%9F%92%BB;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Founder+%26+CEO+%40+ThreeUpTech;CTO+%40+WebDrvn;Automation%2C+integrations+and+infrastructure;Fixing+the+open+source+tools+we+run" alt="Founder & CEO @ ThreeUpTech · CTO @ WebDrvn" />
 
 <br/>
 
-<!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=asif543&style=for-the-badge&color=7c3aed&labelColor=0d1117)
-[![LinkedIn](https://img.shields.io/badge/2500%2B_Connections-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif543/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fasif543-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/asif543/)
+[![ThreeUpTech](https://img.shields.io/badge/ThreeUpTech-threeuptech.com-7c3aed?style=for-the-badge)](https://threeuptech.com)
+[![WebDrvn](https://img.shields.io/badge/WebDrvn-webdrvn.com-0ea5e9?style=for-the-badge)](https://webdrvn.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About me
 
 ```typescript
-const muhammad_asif = {
-  name:       "Muhammad Asif",
-  role:       "Senior Software Engineer & Full Stack Developer",
-  companies:  ["Founder & CEO @ ThreeUpTech", "CTO @ WebDrvn"],
-  education:  "National University of Sciences & Technology (NUST)",
-  philosophy: "Build awesome things. Solve real problems. Lead great teams.",
-  currently:  ["Scaling ThreeUpTech", "Cloud Architecture on AWS", "AI-powered automation"],
-  openTo:     ["Collaborations", "Consulting", "Challenging Projects"],
+const asif = {
+  name:      "Muhammad Asif",
+  roles:     ["Founder & CEO @ ThreeUpTech", "CTO @ WebDrvn"],
+  education: "National University of Sciences & Technology (NUST)",
+  focus:     ["Workflow automation and integrations", "Self-hosted platforms on GCP", "Support and marketing tooling"],
+  principle: "Run it in production, fix it upstream.",
+  openTo:    ["Consulting", "Collaborations", "Challenging projects"],
 };
 ```
 
 > *"Asif is an outstanding team player with exceptional leadership skills. He takes ownership of whatever work is assigned to him and makes sure it is completed end-to-end."*
-> - LinkedIn Recommendation
+> — LinkedIn recommendation
 
 ---
 
-## 🏢 What I Do
+## What I do
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>⚡ ThreeUpTech</h3>
-      <p>Technology company I founded and lead as CEO. We build cutting-edge software products and deliver full-stack solutions for businesses across the globe.</p>
+      <h3>ThreeUpTech</h3>
+      <p>Technology company I founded and lead as CEO. We build software products and deliver full-stack solutions for businesses worldwide.</p>
     </td>
     <td align="center" width="50%">
-      <h3>🌐 WebDrvn</h3>
-      <p>Serving as CTO, driving the technical vision and architecture to power next-generation web experiences and digital transformation.</p>
+      <h3>WebDrvn</h3>
+      <p>As CTO I own automations, integrations and infrastructure: a self-hosted stack on Google Cloud that runs support, marketing and client operations.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+## Open source
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+I contribute fixes to the tools we run in production. Every item below started as a bug we hit ourselves.
+This list is generated daily from GitHub.
 
-### 🖥️ Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- OSS:START -->
+_5 pull requests (0 merged, 5 open) and 7 issues across 6 projects. Updated 2026-09-29._
 
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![ROR](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+### Pull requests
 
-### 🗄️ Databases
-![Postgresql](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| Project | Contribution | Status | Date |
+| --- | --- | --- | --- |
+| [supabase/supabase](https://github.com/supabase/supabase) | [docs: prefix internal guide links with /docs so they resolve](https://github.com/supabase/supabase/pull/51022) | Open | 2026-09-29 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: treat lowercase and/or query operators correctly in attribute_changed automation conditions](https://github.com/chatwoot/chatwoot/pull/16067) | Open | 2026-09-29 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [fix: use root scope for email plugin lookup in base user resend invite](https://github.com/nocodb/nocodb/pull/14674) | Open | 2026-09-28 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: apply env values to blank installation configs](https://github.com/chatwoot/chatwoot/pull/16051) | Open | 2026-09-28 |
+| [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [fix(core): section preview images point at the media file route](https://github.com/emdash-cms/emdash/pull/3552) | Open | 2026-09-28 |
 
-### 🛠️ Tools & Platforms
-![Algolia](https://img.shields.io/badge/Algolia-%230C1E3F.svg?style=for-the-badge&logo=algolia&logoColor=white)
-![Zoho](https://img.shields.io/badge/Zoho-%23EA4335.svg?style=for-the-badge&logo=zoho&logoColor=white)
+### Issues
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsifMahsud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifMahsud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsifMahsud&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
-
-</div>
+| Project | Contribution | Status | Date |
+| --- | --- | --- | --- |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Automation rules for an event execute in undefined (Postgres heap) order](https://github.com/chatwoot/chatwoot/issues/16065) | Open | 2026-09-29 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Automation: attribute_changed condition treats lowercase AND (as sent by the dashboard) as OR](https://github.com/chatwoot/chatwoot/issues/16064) | Open | 2026-09-29 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [[CE] Workspace invite sends no email and drops the invite token; no resend from the members list](https://github.com/nocodb/nocodb/issues/14675) | Open | 2026-09-28 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [Base-level "Resend invite" fails with "column fk_workspace_id does not exist" (email plugin looked up with base scope)](https://github.com/nocodb/nocodb/issues/14673) | Open | 2026-09-28 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | [Google Sheets node evaluates Document and Sheet for the first input item only](https://github.com/n8n-io/n8n/issues/39784) | Open | 2026-09-28 |
+| [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [Auth dependencies (arctic, @oslojs/*) are deprecated on npm; every install prints nine deprecation warnings](https://github.com/emdash-cms/emdash/issues/3550) | Open | 2026-09-28 |
+| [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) | [Previously used keyphrase: You’ve used this keyphrase 2 times before.](https://github.com/Yoast/wordpress-seo/issues/14967) | Resolved | 2020-04-29 |
+<!-- OSS:END -->
 
 ---
 
-## 🏆 GitHub Trophies
+## Tech stack
 
-<div align="center">
+### Platforms I run
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Chatwoot](https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white)
+![NocoDB](https://img.shields.io/badge/NocoDB-0B1A2E?style=for-the-badge&logo=nocodb&logoColor=white)
+![Outline](https://img.shields.io/badge/Outline-1F1F1F?style=for-the-badge)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=vaultwarden&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AsifMahsud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-</div>
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & libraries
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## 🤝 Let's Connect & Build Something Great
+## Let's connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif543/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmahsud543@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923425106510)
-[![ThreeUpTech](https://img.shields.io/badge/ThreeUpTech-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://threeuptech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/asif543/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asifmahsud543@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923425106510)
+[![ThreeUpTech](https://img.shields.io/badge/ThreeUpTech-7c3aed?style=for-the-badge)](https://threeuptech.com)
 
 <br/>
 
-*💡 Open to exciting collaborations, consulting, and building the next big thing.*
+*Open to consulting, collaborations and building the next thing.*
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt=""/>
 
 </div>
