@@ -55,7 +55,7 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_5 pull requests (0 merged, 5 open) and 7 issues across 6 projects. Updated 2026-09-29._
+_4 pull requests (0 merged, 4 open) and 6 issues across 5 projects. Updated 2026-09-30._
 
 ### Pull requests
 
@@ -63,7 +63,6 @@ _5 pull requests (0 merged, 5 open) and 7 issues across 6 projects. Updated 2026
 | --- | --- | --- | --- |
 | [supabase/supabase](https://github.com/supabase/supabase) | [docs: prefix internal guide links with /docs so they resolve](https://github.com/supabase/supabase/pull/51022) | Open | 2026-09-29 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: treat lowercase and/or query operators correctly in attribute_changed automation conditions](https://github.com/chatwoot/chatwoot/pull/16067) | Open | 2026-09-29 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [fix: use root scope for email plugin lookup in base user resend invite](https://github.com/nocodb/nocodb/pull/14674) | Open | 2026-09-28 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: apply env values to blank installation configs](https://github.com/chatwoot/chatwoot/pull/16051) | Open | 2026-09-28 |
 | [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [fix(core): section preview images point at the media file route](https://github.com/emdash-cms/emdash/pull/3552) | Open | 2026-09-28 |
 
@@ -73,11 +72,10 @@ _5 pull requests (0 merged, 5 open) and 7 issues across 6 projects. Updated 2026
 | --- | --- | --- | --- |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Automation rules for an event execute in undefined (Postgres heap) order](https://github.com/chatwoot/chatwoot/issues/16065) | Open | 2026-09-29 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Automation: attribute_changed condition treats lowercase AND (as sent by the dashboard) as OR](https://github.com/chatwoot/chatwoot/issues/16064) | Open | 2026-09-29 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [[CE] Workspace invite sends no email and drops the invite token; no resend from the members list](https://github.com/nocodb/nocodb/issues/14675) | Open | 2026-09-28 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [Base-level "Resend invite" fails with "column fk_workspace_id does not exist" (email plugin looked up with base scope)](https://github.com/nocodb/nocodb/issues/14673) | Open | 2026-09-28 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [[CE] Workspace invite sends no email and drops the invite token; no resend from the members list](https://github.com/nocodb/nocodb/issues/14675) | Resolved | 2026-09-28 |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [Base-level "Resend invite" fails with "column fk_workspace_id does not exist" (email plugin looked up with base scope)](https://github.com/nocodb/nocodb/issues/14673) | Resolved | 2026-09-28 |
 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | [Google Sheets node evaluates Document and Sheet for the first input item only](https://github.com/n8n-io/n8n/issues/39784) | Open | 2026-09-28 |
 | [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [Auth dependencies (arctic, @oslojs/*) are deprecated on npm; every install prints nine deprecation warnings](https://github.com/emdash-cms/emdash/issues/3550) | Open | 2026-09-28 |
-| [Yoast/wordpress-seo](https://github.com/Yoast/wordpress-seo) | [Previously used keyphrase: You’ve used this keyphrase 2 times before.](https://github.com/Yoast/wordpress-seo/issues/14967) | Resolved | 2020-04-29 |
 <!-- OSS:END -->
 
 ---

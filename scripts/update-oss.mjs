@@ -11,6 +11,8 @@ const END = '<!-- OSS:END -->'
 const MAX_ROWS = 40
 // Course and exercise repositories are not contributions.
 const EXCLUDED_OWNERS = new Set(['ibm-developer-skills-network'])
+// Support questions filed as issues are not contributions either.
+const EXCLUDED_ITEMS = new Set(['Yoast/wordpress-seo#14967'])
 
 const token = process.env.GITHUB_TOKEN
 if (!token) {
@@ -77,7 +79,8 @@ function table(rows) {
 }
 
 const base = `author:${LOGIN} -user:${LOGIN} is:public`
-const keep = (item) => !EXCLUDED_OWNERS.has(repoOf(item).split('/')[0])
+const keep = (item) =>
+  !EXCLUDED_OWNERS.has(repoOf(item).split('/')[0]) && !EXCLUDED_ITEMS.has(`${repoOf(item)}#${item.number}`)
 const [prsAll, issuesAll] = await Promise.all([search(`type:pr ${base}`), search(`type:issue ${base}`)])
 // Closed-without-merge pull requests are not listed.
 const prs = prsAll.filter(keep).filter((p) => p.state === 'open' || p.pull_request?.merged_at)
