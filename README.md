@@ -55,12 +55,18 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_7 pull requests (0 merged, 7 open) and 6 issues across 6 projects. Updated 2026-10-01._
+_13 pull requests (0 merged, 13 open) and 6 issues across 10 projects. Updated 2026-10-02._
 
 ### Pull requests
 
 | Project | Contribution | Status | Date |
 | --- | --- | --- | --- |
+| [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: Supabase.CLI version 2.119.0](https://github.com/microsoft/winget-pkgs/pull/444996) | Open | 2026-10-01 |
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[dockerode] createVolume() promise resolves with a Volume](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75642) | Open | 2026-10-01 |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define pathname in the Vitest first-test example Worker](https://github.com/cloudflare/cloudflare-docs/pull/33889) | Open | 2026-10-01 |
+| [mdn/content](https://github.com/mdn/content) | [IDBFactory.deleteDatabase(): explain what happens while a deletion is blocked](https://github.com/mdn/content/pull/45940) | Open | 2026-10-01 |
+| [mdn/content](https://github.com/mdn/content) | [setSelectionRange(): document moving the caret](https://github.com/mdn/content/pull/45939) | Open | 2026-10-01 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: keep list markers in Telegram replies](https://github.com/chatwoot/chatwoot/pull/16100) | Open | 2026-10-01 |
 | [supabase/supabase](https://github.com/supabase/supabase) | [docs: fix C# and Management API reference links that returned 404](https://github.com/supabase/supabase/pull/51081) | Open | 2026-09-30 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: run automation rules in creation order](https://github.com/chatwoot/chatwoot/pull/16087) | Open | 2026-09-30 |
 | [langgenius/dify](https://github.com/langgenius/dify) | [fix(api): apply media size limits to remote file uploads](https://github.com/langgenius/dify/pull/43282) | Open | 2026-09-30 |
