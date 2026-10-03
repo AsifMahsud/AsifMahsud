@@ -55,12 +55,16 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_13 pull requests (0 merged, 13 open) and 6 issues across 10 projects. Updated 2026-10-02._
+_17 pull requests (0 merged, 17 open) and 6 issues across 11 projects. Updated 2026-10-03._
 
 ### Pull requests
 
 | Project | Contribution | Status | Date |
 | --- | --- | --- | --- |
+| [pypa/pip](https://github.com/pypa/pip) | [Redact credentials in VCS and editable URL errors](https://github.com/pypa/pip/pull/14333) | Open | 2026-10-02 |
+| [mdn/content](https://github.com/mdn/content) | [IDBDatabase: make the upgrade example work for existing databases](https://github.com/mdn/content/pull/45955) | Open | 2026-10-02 |
+| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[busboy] FileInfo.filename can be undefined](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75653) | Open | 2026-10-02 |
+| [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: coolLabs.CoolifyCLI version 1.8.0](https://github.com/microsoft/winget-pkgs/pull/445643) | Open | 2026-10-02 |
 | [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: Supabase.CLI version 2.119.0](https://github.com/microsoft/winget-pkgs/pull/444996) | Open | 2026-10-01 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[dockerode] createVolume() promise resolves with a Volume](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75642) | Open | 2026-10-01 |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define pathname in the Vitest first-test example Worker](https://github.com/cloudflare/cloudflare-docs/pull/33889) | Open | 2026-10-01 |
