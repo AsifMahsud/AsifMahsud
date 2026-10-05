@@ -55,12 +55,15 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_17 pull requests (0 merged, 17 open) and 6 issues across 11 projects. Updated 2026-10-04._
+_20 pull requests (0 merged, 20 open) and 6 issues across 12 projects. Updated 2026-10-05._
 
 ### Pull requests
 
 | Project | Contribution | Status | Date |
 | --- | --- | --- | --- |
+| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: add Google Cloud Storage setup to the S3 credentials page](https://github.com/n8n-io/n8n-docs/pull/5524) | Open | 2026-10-05 |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [Fix runtime errors in the Hono signing-requests and CORS proxy examples](https://github.com/cloudflare/cloudflare-docs/pull/33981) | Open | 2026-10-05 |
+| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: document the Merge node's Empty Query Result option](https://github.com/n8n-io/n8n-docs/pull/5523) | Open | 2026-10-05 |
 | [pypa/pip](https://github.com/pypa/pip) | [Redact credentials in VCS and editable URL errors](https://github.com/pypa/pip/pull/14333) | Open | 2026-10-02 |
 | [mdn/content](https://github.com/mdn/content) | [IDBDatabase: make the upgrade example work for existing databases](https://github.com/mdn/content/pull/45955) | Open | 2026-10-02 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[busboy] FileInfo.filename can be undefined](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75653) | Open | 2026-10-02 |
