@@ -55,7 +55,7 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_23 pull requests (0 merged, 23 open) and 6 issues across 12 projects. Updated 2026-10-07._
+_21 pull requests (0 merged, 21 open) and 6 issues across 11 projects. Updated 2026-10-08._
 
 ### Pull requests
 
@@ -79,8 +79,6 @@ _23 pull requests (0 merged, 23 open) and 6 issues across 12 projects. Updated 2
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: keep list markers in Telegram replies](https://github.com/chatwoot/chatwoot/pull/16100) | Open | 2026-10-01 |
 | [supabase/supabase](https://github.com/supabase/supabase) | [docs: fix C# and Management API reference links that returned 404](https://github.com/supabase/supabase/pull/51081) | Open | 2026-09-30 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: run automation rules in creation order](https://github.com/chatwoot/chatwoot/pull/16087) | Open | 2026-09-30 |
-| [langgenius/dify](https://github.com/langgenius/dify) | [fix(api): apply media size limits to remote file uploads](https://github.com/langgenius/dify/pull/43282) | Open | 2026-09-30 |
-| [supabase/supabase](https://github.com/supabase/supabase) | [docs: prefix internal guide links with /docs so they resolve](https://github.com/supabase/supabase/pull/51022) | Open | 2026-09-29 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: treat lowercase and/or query operators correctly in attribute_changed automation conditions](https://github.com/chatwoot/chatwoot/pull/16067) | Open | 2026-09-29 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: apply env values to blank installation configs](https://github.com/chatwoot/chatwoot/pull/16051) | Open | 2026-09-28 |
 | [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [fix(core): section preview images point at the media file route](https://github.com/emdash-cms/emdash/pull/3552) | Open | 2026-09-28 |
