@@ -55,25 +55,25 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_21 pull requests (0 merged, 21 open) and 6 issues across 11 projects. Updated 2026-10-08._
+_21 pull requests (5 merged, 16 open) and 6 issues across 11 projects. Updated 2026-10-09._
 
 ### Pull requests
 
 | Project | Contribution | Status | Date |
 | --- | --- | --- | --- |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Use the fetch handler's request parameter in the RPC lifecycle example](https://github.com/cloudflare/cloudflare-docs/pull/34036) | Open | 2026-10-06 |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define the logged error in the third-party logging example](https://github.com/cloudflare/cloudflare-docs/pull/34035) | Open | 2026-10-06 |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Use the fetch handler's request parameter in the RPC lifecycle example](https://github.com/cloudflare/cloudflare-docs/pull/34036) | Merged | 2026-10-06 |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define the logged error in the third-party logging example](https://github.com/cloudflare/cloudflare-docs/pull/34035) | Merged | 2026-10-06 |
 | [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: Form Trigger Form Path moved to Options in node version 2.2](https://github.com/n8n-io/n8n-docs/pull/5533) | Open | 2026-10-06 |
 | [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: add Google Cloud Storage setup to the S3 credentials page](https://github.com/n8n-io/n8n-docs/pull/5524) | Open | 2026-10-05 |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [Fix runtime errors in the Hono signing-requests and CORS proxy examples](https://github.com/cloudflare/cloudflare-docs/pull/33981) | Open | 2026-10-05 |
-| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: document the Merge node's Empty Query Result option](https://github.com/n8n-io/n8n-docs/pull/5523) | Open | 2026-10-05 |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [Fix runtime errors in the Hono signing-requests and CORS proxy examples](https://github.com/cloudflare/cloudflare-docs/pull/33981) | Merged | 2026-10-05 |
+| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: document the Merge node's Empty Query Result option](https://github.com/n8n-io/n8n-docs/pull/5523) | Merged | 2026-10-05 |
 | [pypa/pip](https://github.com/pypa/pip) | [Redact credentials in VCS and editable URL errors](https://github.com/pypa/pip/pull/14333) | Open | 2026-10-02 |
 | [mdn/content](https://github.com/mdn/content) | [IDBDatabase: make the upgrade example work for existing databases](https://github.com/mdn/content/pull/45955) | Open | 2026-10-02 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[busboy] FileInfo.filename can be undefined](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75653) | Open | 2026-10-02 |
 | [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: coolLabs.CoolifyCLI version 1.8.0](https://github.com/microsoft/winget-pkgs/pull/445643) | Open | 2026-10-02 |
 | [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: Supabase.CLI version 2.119.0](https://github.com/microsoft/winget-pkgs/pull/444996) | Open | 2026-10-01 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[dockerode] createVolume() promise resolves with a Volume](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75642) | Open | 2026-10-01 |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define pathname in the Vitest first-test example Worker](https://github.com/cloudflare/cloudflare-docs/pull/33889) | Open | 2026-10-01 |
+| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define pathname in the Vitest first-test example Worker](https://github.com/cloudflare/cloudflare-docs/pull/33889) | Merged | 2026-10-01 |
 | [mdn/content](https://github.com/mdn/content) | [IDBFactory.deleteDatabase(): explain what happens while a deletion is blocked](https://github.com/mdn/content/pull/45940) | Open | 2026-10-01 |
 | [mdn/content](https://github.com/mdn/content) | [setSelectionRange(): document moving the caret](https://github.com/mdn/content/pull/45939) | Open | 2026-10-01 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: keep list markers in Telegram replies](https://github.com/chatwoot/chatwoot/pull/16100) | Open | 2026-10-01 |
