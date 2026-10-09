@@ -55,7 +55,7 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_21 pull requests (5 merged, 16 open) and 6 issues across 11 projects. Updated 2026-10-09._
+_21 pull requests (6 merged, 15 open) and 6 issues across 11 projects. Updated 2026-10-09._
 
 ### Pull requests
 
@@ -63,7 +63,7 @@ _21 pull requests (5 merged, 16 open) and 6 issues across 11 projects. Updated 2
 | --- | --- | --- | --- |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Use the fetch handler's request parameter in the RPC lifecycle example](https://github.com/cloudflare/cloudflare-docs/pull/34036) | Merged | 2026-10-06 |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define the logged error in the third-party logging example](https://github.com/cloudflare/cloudflare-docs/pull/34035) | Merged | 2026-10-06 |
-| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: Form Trigger Form Path moved to Options in node version 2.2](https://github.com/n8n-io/n8n-docs/pull/5533) | Open | 2026-10-06 |
+| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: Form Trigger Form Path moved to Options in node version 2.2](https://github.com/n8n-io/n8n-docs/pull/5533) | Merged | 2026-10-06 |
 | [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: add Google Cloud Storage setup to the S3 credentials page](https://github.com/n8n-io/n8n-docs/pull/5524) | Open | 2026-10-05 |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [Fix runtime errors in the Hono signing-requests and CORS proxy examples](https://github.com/cloudflare/cloudflare-docs/pull/33981) | Merged | 2026-10-05 |
 | [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: document the Merge node's Empty Query Result option](https://github.com/n8n-io/n8n-docs/pull/5523) | Merged | 2026-10-05 |
