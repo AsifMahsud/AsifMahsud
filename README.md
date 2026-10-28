@@ -55,7 +55,7 @@ I contribute fixes to the tools we run in production. Every item below started a
 This list is generated daily from GitHub.
 
 <!-- OSS:START -->
-_21 pull requests (10 merged, 11 open) and 6 issues across 11 projects. Updated 2026-10-28._
+_14 pull requests (10 merged, 4 open) and 6 issues across 9 projects. Updated 2026-10-28._
 
 ### Pull requests
 
@@ -70,18 +70,11 @@ _21 pull requests (10 merged, 11 open) and 6 issues across 11 projects. Updated 
 | [pypa/pip](https://github.com/pypa/pip) | [Redact credentials in VCS and editable URL errors](https://github.com/pypa/pip/pull/14333) | Open | 2026-10-02 |
 | [mdn/content](https://github.com/mdn/content) | [IDBDatabase: make the upgrade example work for existing databases](https://github.com/mdn/content/pull/45955) | Open | 2026-10-02 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[busboy] FileInfo.filename can be undefined](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75653) | Merged | 2026-10-02 |
-| [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: coolLabs.CoolifyCLI version 1.8.0](https://github.com/microsoft/winget-pkgs/pull/445643) | Open | 2026-10-02 |
-| [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) | [New package: Supabase.CLI version 2.119.0](https://github.com/microsoft/winget-pkgs/pull/444996) | Open | 2026-10-01 |
 | [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[dockerode] createVolume() promise resolves with a Volume](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75642) | Merged | 2026-10-01 |
 | [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define pathname in the Vitest first-test example Worker](https://github.com/cloudflare/cloudflare-docs/pull/33889) | Merged | 2026-10-01 |
 | [mdn/content](https://github.com/mdn/content) | [IDBFactory.deleteDatabase(): explain what happens while a deletion is blocked](https://github.com/mdn/content/pull/45940) | Merged | 2026-10-01 |
 | [mdn/content](https://github.com/mdn/content) | [setSelectionRange(): document moving the caret](https://github.com/mdn/content/pull/45939) | Merged | 2026-10-01 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: keep list markers in Telegram replies](https://github.com/chatwoot/chatwoot/pull/16100) | Open | 2026-10-01 |
-| [supabase/supabase](https://github.com/supabase/supabase) | [docs: fix C# and Management API reference links that returned 404](https://github.com/supabase/supabase/pull/51081) | Open | 2026-09-30 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: run automation rules in creation order](https://github.com/chatwoot/chatwoot/pull/16087) | Open | 2026-09-30 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: treat lowercase and/or query operators correctly in attribute_changed automation conditions](https://github.com/chatwoot/chatwoot/pull/16067) | Open | 2026-09-29 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: apply env values to blank installation configs](https://github.com/chatwoot/chatwoot/pull/16051) | Open | 2026-09-28 |
-| [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [fix(core): section preview images point at the media file route](https://github.com/emdash-cms/emdash/pull/3552) | Open | 2026-09-28 |
 
 ### Issues
 
