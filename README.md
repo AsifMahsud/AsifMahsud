@@ -49,47 +49,6 @@ const asif = {
 
 ---
 
-## Open source
-
-I contribute fixes to the tools we run in production. Every item below started as a bug we hit ourselves.
-This list is generated daily from GitHub.
-
-<!-- OSS:START -->
-_14 pull requests (10 merged, 4 open) and 6 issues across 9 projects. Updated 2026-10-28._
-
-### Pull requests
-
-| Project | Contribution | Status | Date |
-| --- | --- | --- | --- |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Use the fetch handler's request parameter in the RPC lifecycle example](https://github.com/cloudflare/cloudflare-docs/pull/34036) | Merged | 2026-10-06 |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define the logged error in the third-party logging example](https://github.com/cloudflare/cloudflare-docs/pull/34035) | Merged | 2026-10-06 |
-| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: Form Trigger Form Path moved to Options in node version 2.2](https://github.com/n8n-io/n8n-docs/pull/5533) | Merged | 2026-10-06 |
-| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: add Google Cloud Storage setup to the S3 credentials page](https://github.com/n8n-io/n8n-docs/pull/5524) | Open | 2026-10-05 |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [Fix runtime errors in the Hono signing-requests and CORS proxy examples](https://github.com/cloudflare/cloudflare-docs/pull/33981) | Merged | 2026-10-05 |
-| [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) | [docs: document the Merge node's Empty Query Result option](https://github.com/n8n-io/n8n-docs/pull/5523) | Merged | 2026-10-05 |
-| [pypa/pip](https://github.com/pypa/pip) | [Redact credentials in VCS and editable URL errors](https://github.com/pypa/pip/pull/14333) | Open | 2026-10-02 |
-| [mdn/content](https://github.com/mdn/content) | [IDBDatabase: make the upgrade example work for existing databases](https://github.com/mdn/content/pull/45955) | Open | 2026-10-02 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[busboy] FileInfo.filename can be undefined](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75653) | Merged | 2026-10-02 |
-| [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | [[dockerode] createVolume() promise resolves with a Volume](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75642) | Merged | 2026-10-01 |
-| [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) | [[Workers] Define pathname in the Vitest first-test example Worker](https://github.com/cloudflare/cloudflare-docs/pull/33889) | Merged | 2026-10-01 |
-| [mdn/content](https://github.com/mdn/content) | [IDBFactory.deleteDatabase(): explain what happens while a deletion is blocked](https://github.com/mdn/content/pull/45940) | Merged | 2026-10-01 |
-| [mdn/content](https://github.com/mdn/content) | [setSelectionRange(): document moving the caret](https://github.com/mdn/content/pull/45939) | Merged | 2026-10-01 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [fix: treat lowercase and/or query operators correctly in attribute_changed automation conditions](https://github.com/chatwoot/chatwoot/pull/16067) | Open | 2026-09-29 |
-
-### Issues
-
-| Project | Contribution | Status | Date |
-| --- | --- | --- | --- |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Automation rules for an event execute in undefined (Postgres heap) order](https://github.com/chatwoot/chatwoot/issues/16065) | Open | 2026-09-29 |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [Automation: attribute_changed condition treats lowercase AND (as sent by the dashboard) as OR](https://github.com/chatwoot/chatwoot/issues/16064) | Open | 2026-09-29 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [[CE] Workspace invite sends no email and drops the invite token; no resend from the members list](https://github.com/nocodb/nocodb/issues/14675) | Resolved | 2026-09-28 |
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | [Base-level "Resend invite" fails with "column fk_workspace_id does not exist" (email plugin looked up with base scope)](https://github.com/nocodb/nocodb/issues/14673) | Resolved | 2026-09-28 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | [Google Sheets node evaluates Document and Sheet for the first input item only](https://github.com/n8n-io/n8n/issues/39784) | Open | 2026-09-28 |
-| [emdash-cms/emdash](https://github.com/emdash-cms/emdash) | [Auth dependencies (arctic, @oslojs/*) are deprecated on npm; every install prints nine deprecation warnings](https://github.com/emdash-cms/emdash/issues/3550) | Open | 2026-09-28 |
-<!-- OSS:END -->
-
----
-
 ## Tech stack
 
 ### Platforms I run
